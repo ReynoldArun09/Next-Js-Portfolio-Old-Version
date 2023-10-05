@@ -65,36 +65,29 @@ export const ProjectsData = [
     title: 'Advice Generator',
     static: '/AdviceGeneratorApp.png',
     github: 'https://github.com/reynoldArun/advice-generator-app',
-    live: '',
+    live: 'https://boisterous-palmier-646e1f.netlify.app/',
     type: false
   },
   {
     title: 'Intro Section with dropdown',
     static: '/IntroSection.png',
     github: 'https://github.com/Beast-Rey/front-end-mentor-projects',
-    live: '',
+    live: 'https://meek-croissant-11031d.netlify.app/',
     type: false
   },
   {
     title: 'Testimonials Grid',
     static: '/TestimonialsGrid.png',
     github: 'https://github.com/Beast-Rey/front-end-mentor-projects',
-    live: '',
+    live: 'https://peaceful-cajeta-05aed3.netlify.app/',
     type: false
   },
   {
     title: 'SunnySide Agency',
     static: '/SunnysideAgency.png',
     github: 'https://github.com/Beast-Rey/front-end-mentor-projects',
-    live: '',
+    live: 'https://bucolic-melba-92d7e4.netlify.app/',
     type: true
-  },
-  {
-    title: 'Qr Code Component',
-    static: '/QRcodecomponent.png',
-    github: 'https://github.com/Beast-Rey/front-end-mentor-projects',
-    live: '',
-    type: false
   },
   {
     title: 'Angular Birthday Reminder',
