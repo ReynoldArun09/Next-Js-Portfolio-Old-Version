@@ -40,6 +40,13 @@ export const ProjectsData = [
     live: 'https://chic-pika-a6813d.netlify.app/',
     type: true
   },
+   {
+    title: 'Blog App',
+    static: '/blog.png',
+    github: 'https://github.com/Beast-Rey/mern-blog-app',
+    live: 'https://super-jelly-727c23.netlify.app/',
+    type: true
+  },
   {
     title: 'Visual Studio Ui Clone',
     static: '/visual.png',
