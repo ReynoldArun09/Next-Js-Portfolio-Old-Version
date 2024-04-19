@@ -46,13 +46,6 @@ export const ProjectsData = [
     type: true
   },
   {
-    title: 'Blog App',
-    static: '/blog.png',
-    github: 'https://github.com/ReynoldArun09/MERN-blog-app',
-    live: 'https://super-jelly-727c23.netlify.app/',
-    type: false,
-  },
-  {
     title: 'Mern Chat App',
     static: '/chat.png',
     github: 'https://poetic-narwhal-e5d4fa.netlify.app/login',
