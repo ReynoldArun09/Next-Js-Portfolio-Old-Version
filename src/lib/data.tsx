@@ -27,88 +27,100 @@ export const Skills = [
   { title: "Express", icon: <SiExpress size={30} /> },
   { title: "Mongo", icon: <DiMongodb size={30} /> },
   { title: "Next", icon: <FaReact size={30} /> },
-  { title: "Typescript", icon: <SiTypescript size={30} /> },
-  { title: "Angular", icon: <DiAngularSimple size={30} /> },
-  { title: "Spring boot", icon: <SiSpringboot size={30} /> },
+  { title: "Typescript", icon: <SiTypescript size={30} /> }
 ];
 
 export const ProjectsData = [
   {
     title: 'MangaSwipe',
     static: '/mangaswipe.png',
-    github: 'https://github.com/Beast-Rey/Mangaswipe',
+    github: 'https://github.com/ReynoldArun09/MERN-Mangaswipe',
     live: 'https://chic-pika-a6813d.netlify.app/',
     type: true
   },
   {
+    title: 'Blog App',
+    static: '/blog.png',
+    github: 'https://github.com/ReynoldArun09/MERN-blog-app',
+    live: 'https://super-jelly-727c23.netlify.app/',
+    type: false,
+  },
+  {
+    title: 'Mern Chat App',
+    static: '/chat.png',
+    github: 'https://poetic-narwhal-e5d4fa.netlify.app/login',
+    live: 'https://github.com/ReynoldArun09/MERN-chat-app',
+    type: false,
+  },
+  {
     title: 'Visual Studio Ui Clone',
     static: '/visual.png',
-    github: 'https://github.com/Beast-Rey/Visual-studio-ui-clone',
+    github: 'https://github.com/ReynoldArun09/Visual-studio-ui-clone',
     live: 'https://venerable-snickerdoodle-1ceece.netlify.app/',
     type: false
   },
   {
     title: 'Yelp Review',
     static: '/yelp.png',
-    github: 'https://github.com/Beast-Rey/Yelp-Review',
+    github: 'https://github.com/ReynoldArun09/MERN-Yelp-Review',
     live: 'https://creative-chebakia-4ac9dc.netlify.app/',
     type: false
   },
   {
     title: 'youtube clone',
     static: '/YtubeClone.png',
-    github: 'https://github.com/Beast-Rey/YtubeClone',
-    live: '',
+    github: 'https://github.com/ReynoldArun09/YtubeClone',
+    live: 'https://dashing-beignet-42ebdb.netlify.app/',
     type: false
+  },
+  {
+    title: 'NETFLIX clone',
+    static: '/netflix.png',
+    github: 'https://github.com/ReynoldArun09/React-Firebase-Movie-app',
+    live: 'https://incomparable-quokka-b46fcb.netlify.app/',
+    type: true,
   },
   {
     title: 'Advice Generator',
     static: '/AdviceGeneratorApp.png',
-    github: 'https://github.com/reynoldArun/advice-generator-app',
+    github: 'https://github.com/ReynoldArun09/front-end-mentor-projects',
     live: 'https://boisterous-palmier-646e1f.netlify.app/',
-    type: false
-  },
-  {
-    title: 'Intro Section with dropdown',
-    static: '/IntroSection.png',
-    github: 'https://github.com/Beast-Rey/front-end-mentor-projects',
-    live: 'https://meek-croissant-11031d.netlify.app/',
-    type: false
+    type: false,
   },
   {
     title: 'Testimonials Grid',
     static: '/TestimonialsGrid.png',
-    github: 'https://github.com/Beast-Rey/front-end-mentor-projects',
+    github: 'https://github.com/ReynoldArun09/front-end-mentor-projects',
     live: 'https://peaceful-cajeta-05aed3.netlify.app/',
-    type: false
+    type: false,
   },
   {
     title: 'SunnySide Agency',
     static: '/SunnysideAgency.png',
-    github: 'https://github.com/Beast-Rey/front-end-mentor-projects',
+    github: 'https://github.com/ReynoldArun09/front-end-mentor-projects',
     live: 'https://bucolic-melba-92d7e4.netlify.app/',
-    type: true
+    type: true,
   },
   {
-    title: 'Angular Birthday Reminder',
-    static: '/angularbirthday.png',
-    github: 'https://github.com/Beast-Rey/react-projects-typescript',
+    title: 'Birthday Reminder',
+    static: '/birthday.png',
+    github: 'https://github.com/ReynoldArun09/react-projects-typescript',
     live: 'https://main--illustrious-rabanadas-6c5b0a.netlify.app/',
-    type: false
+    type: false,
   },
   {
     title: 'Tour App',
     static: '/tour.png',
-    github: 'https://github.com/Beast-Rey/react-projects-typescript',
+    github: 'https://github.com/ReynoldArun09/react-projects-typescript',
     live: 'https://gleeful-peony-d9813d.netlify.app/',
-    type: true
+    type: true,
   },
   {
     title: 'Reviews App',
     static: '/reviews.png',
-    github: 'https://github.com/Beast-Rey/react-projects-typescript',
+    github: 'https://github.com/ReynoldArun09/react-projects-typescript',
     live: 'https://lucent-lolly-d6b364.netlify.app/',
-    type: false
+    type: false,
   }
 ]
 

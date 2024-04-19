@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
 
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -76,6 +77,8 @@
     @apply border-border;
   }
   body {
-    @apply bg-background;
+    @apply bg-background text-foreground;
+    font-weight: 400;
+    font-style: normal;
   }
 }

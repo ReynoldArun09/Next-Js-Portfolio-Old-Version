@@ -16,7 +16,7 @@ export default function SiteContact() {
         <button className="bg-portlighttext text-black py-5 font-bold px-10 rounded-lg hover:outline-none hover:shadow-4xl dark:bg-portdarktext dark:hover:shadow-3xl mt-5">Contact Me</button>
       </div>
       <div className="mt-8 flex items-center flex-wrap  gap-8 justify-center">
-      <SocialLink title="Github" link="https://github.com/Beast-Rey" icon={<AiFillGithub size={30}/>}/>
+      <SocialLink title="Github" link="https://github.com/ReynoldArun09" icon={<AiFillGithub size={30}/>}/>
       <SocialLink title="Linkedin" link="https://www.linkedin.com" icon={<AiFillLinkedin size={30}/>}/>
       <SocialLink title="Facebook" link="https://www.facebook.com" icon={<AiFillFacebook size={30}/>}/>
     </div>

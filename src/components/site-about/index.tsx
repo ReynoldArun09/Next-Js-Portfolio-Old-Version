@@ -20,7 +20,7 @@ export default function SiteAbout() {
       <div className="w-3/4 flex flex-col items-center gap-5 md:items-start">
         <h1 className="text-5xl font-bold text-portlighttext dark:text-portdarktext">Hi, i'm Reynold,</h1>
         <h2 className="text-xl md:text-5xl font-semibold bg-clip-text tracking-wide text-portlighttext dark:text-portdarktext">
-          Self Taught Full Stack Developer,
+          MERN Stack Developer,
         </h2>
         <h3 className="text-2xl tracking-wide text-center font-bold md:text-start text-portlighttext dark:text-portdarktext">
             B.com graduate from Mangalore.

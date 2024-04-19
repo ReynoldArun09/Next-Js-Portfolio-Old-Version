@@ -11,7 +11,7 @@ export default function SiteExperience() {
             my experience
         </CustomHeading>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 p-12">
-        <ExpCard title="Fresher" subtitle="Full stack Developer" icon={<GiWorriedEyes size={50}/>}/>
+        <ExpCard title="Zephyr Technologies & Solutions" subtitle="MERN stack Developer" icon={<GiWorriedEyes size={50}/>}/>
       </div>
         <CustomHeading className='text-end'>
           /my experience
