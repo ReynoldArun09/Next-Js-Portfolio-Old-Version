@@ -38,6 +38,13 @@ export const ProjectsData = [
     live: 'https://chic-pika-a6813d.netlify.app/',
     type: true
   },
+  {
+    title: 'Hotel Booking App',
+    static: '/booking.png',
+    github: 'https://github.com/ReynoldArun09/MERN-Hotel-Booking-App',
+    live: 'https://mern-hotel-booking-app.netlify.app/',
+    type: false
+  },
    {
     title: 'Blog App',
     static: '/blog.png',
@@ -48,8 +55,8 @@ export const ProjectsData = [
   {
     title: 'Mern Chat App',
     static: '/chat.png',
-    github: 'https://poetic-narwhal-e5d4fa.netlify.app/login',
-    live: 'https://github.com/ReynoldArun09/MERN-chat-app',
+    github: 'https://github.com/ReynoldArun09/MERN-chat-app',
+    live: 'https://poetic-narwhal-e5d4fa.netlify.app',
     type: false,
   },
   {
