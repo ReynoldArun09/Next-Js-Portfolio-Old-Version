@@ -3,7 +3,6 @@ import { FaReact, FaNodeJs } from "react-icons/fa";
 import {
   SiExpress,
   SiTailwindcss,
-  SiSpringboot,
   SiTypescript,
 } from "react-icons/si";
 import { IoLogoJavascript } from "react-icons/io";
@@ -11,7 +10,6 @@ import {
   DiReact,
   DiCss3Full,
   DiMongodb,
-  DiAngularSimple,
 } from "react-icons/di";
 import { AiFillHtml5 } from "react-icons/ai";
 
@@ -32,10 +30,10 @@ export const Skills = [
 
 export const ProjectsData = [
   {
-    title: 'MangaSwipe',
-    static: '/mangaswipe.png',
-    github: 'https://github.com/ReynoldArun09/MERN-Mangaswipe',
-    live: 'https://chic-pika-a6813d.netlify.app/',
+    title: 'Food Delivery App',
+    static: '/foodzone.png',
+    github: 'https://github.com/ReynoldArun09/MERN-Food-Delivery-App',
+    live: 'https://foodzonenewapp.netlify.app/',
     type: true
   },
   {
@@ -65,6 +63,13 @@ export const ProjectsData = [
     github: 'https://github.com/ReynoldArun09/Visual-studio-ui-clone',
     live: 'https://venerable-snickerdoodle-1ceece.netlify.app/',
     type: false
+  },
+  {
+    title: 'MangaSwipe',
+    static: '/mangaswipe.png',
+    github: 'https://github.com/ReynoldArun09/MERN-Mangaswipe',
+    live: 'https://chic-pika-a6813d.netlify.app/',
+    type: true
   },
   {
     title: 'Yelp Review',
