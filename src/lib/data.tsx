@@ -68,7 +68,7 @@ export const ProjectsData = [
     title: 'MangaSwipe',
     static: '/mangaswipe.png',
     github: 'https://github.com/ReynoldArun09/MERN-Mangaswipe',
-    live: 'https://chic-pika-a6813d.netlify.app/',
+    live: 'https://mangaswipe.netlify.app/',
     type: true
   },
   {
