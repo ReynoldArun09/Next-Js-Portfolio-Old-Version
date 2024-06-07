@@ -30,6 +30,13 @@ export const Skills = [
 
 export const ProjectsData = [
   {
+    title: 'MangaSwipe',
+    static: '/mangaswipe.png',
+    github: 'https://github.com/ReynoldArun09/MERN-Mangaswipe',
+    live: 'https://mangaswipe.netlify.app/',
+    type: true
+  },
+  {
     title: 'Food Delivery App',
     static: '/foodzone.png',
     github: 'https://github.com/ReynoldArun09/MERN-Food-Delivery-App',
@@ -41,7 +48,7 @@ export const ProjectsData = [
     static: '/booking.png',
     github: 'https://github.com/ReynoldArun09/MERN-Hotel-Booking-App',
     live: 'https://mern-hotel-booking-app.netlify.app/',
-    type: false
+    type: true
   },
    {
     title: 'Blog App',
@@ -65,11 +72,11 @@ export const ProjectsData = [
     type: false
   },
   {
-    title: 'MangaSwipe',
-    static: '/mangaswipe.png',
-    github: 'https://github.com/ReynoldArun09/MERN-Mangaswipe',
-    live: 'https://mangaswipe.netlify.app/',
-    type: true
+    title: 'NETFLIX clone',
+    static: '/netflix.png',
+    github: 'https://github.com/ReynoldArun09/React-Firebase-Movie-app',
+    live: 'https://incomparable-quokka-b46fcb.netlify.app/',
+    type: true,
   },
   {
     title: 'Yelp Review',
@@ -86,10 +93,10 @@ export const ProjectsData = [
     type: false
   },
   {
-    title: 'NETFLIX clone',
-    static: '/netflix.png',
-    github: 'https://github.com/ReynoldArun09/React-Firebase-Movie-app',
-    live: 'https://incomparable-quokka-b46fcb.netlify.app/',
+    title: 'SunnySide Agency',
+    static: '/SunnysideAgency.png',
+    github: 'https://github.com/ReynoldArun09/front-end-mentor-projects',
+    live: 'https://bucolic-melba-92d7e4.netlify.app/',
     type: true,
   },
   {
@@ -107,10 +114,10 @@ export const ProjectsData = [
     type: false,
   },
   {
-    title: 'SunnySide Agency',
-    static: '/SunnysideAgency.png',
-    github: 'https://github.com/ReynoldArun09/front-end-mentor-projects',
-    live: 'https://bucolic-melba-92d7e4.netlify.app/',
+    title: 'Tour App',
+    static: '/tour.png',
+    github: 'https://github.com/ReynoldArun09/react-projects-typescript',
+    live: 'https://gleeful-peony-d9813d.netlify.app/',
     type: true,
   },
   {
@@ -119,13 +126,6 @@ export const ProjectsData = [
     github: 'https://github.com/ReynoldArun09/react-projects-typescript',
     live: 'https://main--illustrious-rabanadas-6c5b0a.netlify.app/',
     type: false,
-  },
-  {
-    title: 'Tour App',
-    static: '/tour.png',
-    github: 'https://github.com/ReynoldArun09/react-projects-typescript',
-    live: 'https://gleeful-peony-d9813d.netlify.app/',
-    type: true,
   },
   {
     title: 'Reviews App',

@@ -1,9 +1,9 @@
 import ThemeProvider from "@/config/themeProvider";
 import "./globals.css";
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Roboto_Mono } from "next/font/google";
 
-const inter = Inter({ subsets: ["latin"] });
+const roboto = Roboto_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Personal Portfolio",
@@ -17,7 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={roboto.className}>
         <ThemeProvider attribute="class" defaultTheme="dark">
             {children}
         </ThemeProvider>
