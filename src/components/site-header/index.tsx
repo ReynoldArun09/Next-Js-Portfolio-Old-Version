@@ -11,9 +11,9 @@ const NavLinks = [
 
 export default function SiteHeader() {
   return (
-    <header className="flex justify-end items-center gap-5 py-5">
+    <header className="hidden md:flex justify-end items-center gap-5 py-5">
       {NavLinks.map((link, index) => (
-        <CustomNavLink key={link.label} href={link.href} Linknumber={`${index+1}.`}>
+        <CustomNavLink key={link.label} href={link.href} Linknumber={`${index + 1}.`}>
           {link.label}
         </CustomNavLink>
       ))}
